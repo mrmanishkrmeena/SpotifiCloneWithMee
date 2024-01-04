@@ -5,3 +5,4 @@ and Know how websites work .
 =>In this Webpage we tried to mimic spotify website .
 => In this we added some songs that can be controlled by manualy and changed by the given buttons.
 And Many more things are also there........
+https://mrmanishkrmeena.github.io/SpotifiCloneWithMee/
